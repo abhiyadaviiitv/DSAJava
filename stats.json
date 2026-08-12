@@ -1,12 +1,12 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-08-12",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
@@ -14,15 +14,17 @@
     "LeetCode_Two_Sum": true,
     "LeetCode_Smallest_Divisible_Digit_Product_I": true,
     "LeetCode_Climbing_Stairs": true,
-    "GeeksForGeeks_Frog_Jump": true
+    "GeeksForGeeks_Frog_Jump": true,
+    "LeetCode_House_Robber": true
   },
   "activityHistory": {
     "2026-07-11": 1,
     "2026-08-06": 1,
-    "2026-08-12": 2
+    "2026-08-12": 3
   },
   "todayProblems": [
     "Climbing Stairs",
-    "Frog Jump"
+    "Frog Jump",
+    "House Robber"
   ]
 }
