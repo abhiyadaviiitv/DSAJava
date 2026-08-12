@@ -5,3 +5,4 @@
 | 3 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 12 Aug 2026 | 11:18 am |
 | 4 | [Frog Jump](./GeeksForGeeks/Medium/Frog%20Jump) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-jump/1?utm=codolio) | Medium | 12 Aug 2026 | 04:35 pm |
 | 5 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 12 Aug 2026 | 10:22 pm |
+| 6 | [House Robber II](./LeetCode/Medium/House%20Robber%20II) | [LeetCode](https://leetcode.com/problems/house-robber-ii/) | Medium | 12 Aug 2026 | 11:06 pm |
