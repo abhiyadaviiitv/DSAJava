@@ -6,3 +6,4 @@
 | 4 | [Frog Jump](./GeeksForGeeks/Medium/Frog%20Jump) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-jump/1?utm=codolio) | Medium | 12 Aug 2026 | 04:35 pm |
 | 5 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 12 Aug 2026 | 10:22 pm |
 | 6 | [House Robber II](./LeetCode/Medium/House%20Robber%20II) | [LeetCode](https://leetcode.com/problems/house-robber-ii/) | Medium | 12 Aug 2026 | 11:06 pm |
+| 7 | [Geek's Training](./GeeksForGeeks/Medium/Geek's%20Training) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geeks-training/1?utm=codolio) | Medium | 14 Aug 2026 | 11:30 am |
