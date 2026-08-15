@@ -1,12 +1,12 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 9,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-15",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 5,
+    "medium": 6,
     "hard": 0,
     "basic": 0
   },
@@ -18,16 +18,18 @@
     "LeetCode_House_Robber": true,
     "LeetCode_House_Robber_II": true,
     "GeeksForGeeks_Geek's_Training": true,
-    "LeetCode_Unique_Paths": true
+    "LeetCode_Unique_Paths": true,
+    "LeetCode_Unique_Paths_II": true
   },
   "activityHistory": {
     "2026-07-11": 1,
     "2026-08-06": 1,
     "2026-08-12": 4,
     "2026-08-14": 1,
-    "2026-08-15": 1
+    "2026-08-15": 2
   },
   "todayProblems": [
-    "Unique Paths"
+    "Unique Paths",
+    "Unique Paths II"
   ]
 }

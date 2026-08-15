@@ -8,3 +8,4 @@
 | 6 | [House Robber II](./LeetCode/Medium/House%20Robber%20II) | [LeetCode](https://leetcode.com/problems/house-robber-ii/) | Medium | 12 Aug 2026 | 11:06 pm |
 | 7 | [Geek's Training](./GeeksForGeeks/Medium/Geek's%20Training) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geeks-training/1?utm=codolio) | Medium | 14 Aug 2026 | 11:30 am |
 | 8 | [Unique Paths](./LeetCode/Medium/Unique%20Paths) | [LeetCode](https://leetcode.com/problems/unique-paths/) | Medium | 15 Aug 2026 | 05:07 pm |
+| 9 | [Unique Paths II](./LeetCode/Medium/Unique%20Paths%20II) | [LeetCode](https://leetcode.com/problems/unique-paths-ii/) | Medium | 15 Aug 2026 | 05:30 pm |

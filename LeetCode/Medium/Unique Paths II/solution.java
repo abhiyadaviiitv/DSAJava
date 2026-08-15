@@ -1,0 +1,32 @@
+class Solution {
+    public int uniquePathsWithObstacles(int[][] obstacleGrid) {
+        int m = obstacleGrid.length;
+        int n = obstacleGrid[0].length;
+        int[][] dp = new int[m][n];
+        
+        // Initialize dp with -1
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                dp[i][j] = -1;
+            }
+        }
+        
+        return f(m - 1, n - 1, dp, obstacleGrid);
+    }
+
+    public int f(int i, int j, int[][] dp, int[][] o) {
+        if(i < 0 || j < 0) return 0;
+        
+        if(o[i][j] == 1) return 0;
+        
+        if(i == 0 && j == 0) return 1;
+        
+        if(dp[i][j] != -1) return dp[i][j];
+        
+        int fromTop = f(i - 1, j, dp, o);
+        int fromLeft = f(i, j - 1, dp, o);
+        
+        dp[i][j] = fromTop + fromLeft;
+        return dp[i][j];
+    }
+}
