@@ -10,3 +10,4 @@
 | 8 | [Unique Paths](./LeetCode/Medium/Unique%20Paths) | [LeetCode](https://leetcode.com/problems/unique-paths/) | Medium | 15 Aug 2026 | 05:07 pm |
 | 9 | [Unique Paths II](./LeetCode/Medium/Unique%20Paths%20II) | [LeetCode](https://leetcode.com/problems/unique-paths-ii/) | Medium | 15 Aug 2026 | 05:30 pm |
 | 10 | [Minimum Path Sum](./LeetCode/Medium/Minimum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-path-sum/) | Medium | 15 Aug 2026 | 05:40 pm |
+| 11 | [Triangle](./LeetCode/Medium/Triangle) | [LeetCode](https://leetcode.com/problems/triangle/) | Medium | 15 Aug 2026 | 10:41 pm |

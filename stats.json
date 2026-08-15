@@ -1,12 +1,12 @@
 {
-  "totalSolved": 10,
+  "totalSolved": 11,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-08-15",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 7,
+    "medium": 8,
     "hard": 0,
     "basic": 0
   },
@@ -20,18 +20,20 @@
     "GeeksForGeeks_Geek's_Training": true,
     "LeetCode_Unique_Paths": true,
     "LeetCode_Unique_Paths_II": true,
-    "LeetCode_Minimum_Path_Sum": true
+    "LeetCode_Minimum_Path_Sum": true,
+    "LeetCode_Triangle": true
   },
   "activityHistory": {
     "2026-07-11": 1,
     "2026-08-06": 1,
     "2026-08-12": 4,
     "2026-08-14": 1,
-    "2026-08-15": 3
+    "2026-08-15": 4
   },
   "todayProblems": [
     "Unique Paths",
     "Unique Paths II",
-    "Minimum Path Sum"
+    "Minimum Path Sum",
+    "Triangle"
   ]
 }
