@@ -12,3 +12,4 @@
 | 10 | [Minimum Path Sum](./LeetCode/Medium/Minimum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-path-sum/) | Medium | 15 Aug 2026 | 05:40 pm |
 | 11 | [Triangle](./LeetCode/Medium/Triangle) | [LeetCode](https://leetcode.com/problems/triangle/) | Medium | 15 Aug 2026 | 10:41 pm |
 | 12 | [Minimum Falling Path Sum](./LeetCode/Medium/Minimum%20Falling%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | 15 Aug 2026 | 11:23 pm |
+| 13 | [Chocolates Pickup](./GeeksForGeeks/Hard/Chocolates%20Pickup) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/chocolates-pickup/1?utm=codolio) | Hard | 16 Aug 2026 | 11:06 pm |

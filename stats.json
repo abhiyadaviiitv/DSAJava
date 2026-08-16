@@ -1,13 +1,13 @@
 {
-  "totalSolved": 12,
-  "currentStreak": 2,
-  "maxStreak": 2,
-  "lastSyncDate": "2026-08-15",
-  "todayCount": 5,
+  "totalSolved": 13,
+  "currentStreak": 3,
+  "maxStreak": 3,
+  "lastSyncDate": "2026-08-16",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
     "medium": 9,
-    "hard": 0,
+    "hard": 1,
     "basic": 0
   },
   "syncedProblems": {
@@ -22,20 +22,18 @@
     "LeetCode_Unique_Paths_II": true,
     "LeetCode_Minimum_Path_Sum": true,
     "LeetCode_Triangle": true,
-    "LeetCode_Minimum_Falling_Path_Sum": true
+    "LeetCode_Minimum_Falling_Path_Sum": true,
+    "GeeksForGeeks_Chocolates_Pickup": true
   },
   "activityHistory": {
     "2026-07-11": 1,
     "2026-08-06": 1,
     "2026-08-12": 4,
     "2026-08-14": 1,
-    "2026-08-15": 5
+    "2026-08-15": 5,
+    "2026-08-16": 1
   },
   "todayProblems": [
-    "Unique Paths",
-    "Unique Paths II",
-    "Minimum Path Sum",
-    "Triangle",
-    "Minimum Falling Path Sum"
+    "Chocolates Pickup"
   ]
 }
