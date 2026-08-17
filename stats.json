@@ -1,12 +1,12 @@
 {
-  "totalSolved": 14,
+  "totalSolved": 15,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-08-17",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
-    "medium": 10,
+    "medium": 11,
     "hard": 1,
     "basic": 0
   },
@@ -24,7 +24,8 @@
     "LeetCode_Triangle": true,
     "LeetCode_Minimum_Falling_Path_Sum": true,
     "GeeksForGeeks_Chocolates_Pickup": true,
-    "GeeksForGeeks_Subsequence_with_Sum_K": true
+    "GeeksForGeeks_Subsequence_with_Sum_K": true,
+    "LeetCode_Partition_Equal_Subset_Sum": true
   },
   "activityHistory": {
     "2026-07-11": 1,
@@ -33,9 +34,10 @@
     "2026-08-14": 1,
     "2026-08-15": 5,
     "2026-08-16": 1,
-    "2026-08-17": 1
+    "2026-08-17": 2
   },
   "todayProblems": [
-    "Subsequence with Sum K"
+    "Subsequence with Sum K",
+    "Partition Equal Subset Sum"
   ]
 }
